@@ -1,0 +1,15 @@
+/* CSS Document */
+.section12{height:105px;width:1000px;margin-top:20px;background:gray;opacity:0.8;}
+.section12_ul{height:105px;width:270px;float:left}
+.section12_ul li{float:left;height:20px;width:130px;line-height:20px;margin-right:5px;text-align:left;}
+.section12_ul li a{font-size:13px;text-decoration:none;color:#000000;}
+.section12_ul li a:hover{text-decoration:underline;}
+
+.section12_fade{height:105px;width:450px;background:green;margin:0 5px;float:left;z-index:10;position:relative;overflow:hidden;}
+.section12_fade img{height:105px;width:450px;}
+
+.section12_uls{position:absolute;width:120px;height:20px;right:0;top:0;line-height:20px;text-align:center;z-index:112;}
+.section12_uls li{width:8px;height:8px;border-radius:50%;margin:6px 6px;background:#FFFFFF;line-height:8px;cursor:pointer;z-index:112;float:left;}
+#section12_img{height:105px;width:5400px;z-index:11;position:absolute;top:0;left:0;background:#000000;}
+#section12_img li{float:left;}
+.section12_uls .active12{background:aqua}

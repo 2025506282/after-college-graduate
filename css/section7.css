@@ -1,0 +1,9 @@
+/*section7的样式*/
+.section7{width:1000px;height:133px;position:relative;margin-top:10px;}
+.section77{width:1000px;height:133px;position:absolute;overflow:scroll;}
+.section77 ul{width:5100px;position:absolute;}
+.section77 ul li{width:1020px;float:left;}
+.section77 ul li img{width:235px;height:133px;float:left;margin-right:20px;}
+.section7 .section7_left{width:16px;height:36px;position:absolute;left:-40px;top:45px;background:#000000;background-image:url(images/images/icon_all_12_04.gif);cursor:pointer;}
+.section7 .section7_right{width:16px;height:36px;position:absolute;right:-40px;top:45px;background:#000000;background-image:url(images/images/icon_all_12_06.gif);cursor:pointer;}/* CSS Document */
+
