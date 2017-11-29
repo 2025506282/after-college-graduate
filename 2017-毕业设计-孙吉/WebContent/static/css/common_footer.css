@@ -1,0 +1,9 @@
+.footer {
+	margin: 10px auto;
+    width: 90%;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background-color: rgb(3,70,147);
+    color: white;
+}

@@ -1,0 +1,27 @@
+.header_menu .nav_contact_us {
+	background-color: white;
+	color: rgb(3,70,147);
+}
+.contact_us {
+    width: 80%;
+    margin: 10px auto;
+    background-color: #F5F6FA;
+    box-shadow: 1px 3px 20px #333333, 2px 2px 5px #333333;
+    -moz-box-shadow: 1px 3px 20px #333333, 2px 2px 5px #333333;
+    -webkit-box-shadow: 1px 3px 20px #333333, 2px 2px 5px #333333;
+    padding: 2% 5%;
+    border-radius: 5px;
+}
+.contact_us li {
+    list-style: none;
+    line-height: 40px;
+    height: 40px;
+    font-family: Arial;
+    font-size: 18px;
+}
+.dropdown-menu li a {
+    display:none;
+}
+.dropdown-menu {
+    display:none;
+}
